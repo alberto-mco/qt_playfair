@@ -9,7 +9,7 @@ This implementation supports the following squares:
 Also, the program support 5x5 and 6x6 matrix size
 
 ## Important note
-The comments inside the code, and the UI elements are written in spanish.
+The comments inside the code are written in spanish.
 
 ## Screenshots
 ### Main window
